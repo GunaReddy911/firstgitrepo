@@ -1,2 +1,2 @@
-# firstgitrepo
-this is my first repo
+# firstgitrepo-demo
+This is my first repo. Author - Guna
